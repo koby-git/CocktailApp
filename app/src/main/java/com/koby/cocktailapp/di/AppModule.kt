@@ -8,8 +8,6 @@ import androidx.room.Room
 import com.bumptech.glide.Glide
 import com.bumptech.glide.RequestManager
 import com.bumptech.glide.request.RequestOptions
-import com.google.gson.Gson
-import com.google.gson.GsonBuilder
 import com.koby.cocktailapp.R
 import com.koby.cocktailapp.api.ApiConstants.Companion.BASE_URL
 import com.koby.cocktailapp.persistence.CocktailDao
